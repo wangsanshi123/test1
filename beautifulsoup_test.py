@@ -25,5 +25,9 @@ soup = BeautifulSoup(open('temp.html'), 'lxml', from_encoding='utf-8')
 
 # for a in soup.a.next_siblings:
 #     print a.string.strip()
-print soup.a.next_sibling
-print soup.a.next_sibling.next_sibling
+# print soup.a.next_sibling
+# print soup.a.next_sibling.next_sibling
+
+
+
+#搜索文档树
