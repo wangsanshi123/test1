@@ -1,0 +1,7 @@
+*.pyc
+stop/
+.idea/
+.scrapy/
+.cache/
+__init__.py
+exceptions.txt
